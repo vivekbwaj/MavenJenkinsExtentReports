@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 15.039 sec <<< FAILURE! - in TestSuite
+myTest2(com.learnautomation.selenium.Demo1)  Time elapsed: 3.626 sec  <<< FAILURE!
+java.lang.AssertionError: null
+	at org.junit.Assert.fail(Assert.java:92)
+	at org.junit.Assert.assertTrue(Assert.java:43)
+	at org.junit.Assert.assertTrue(Assert.java:54)
+	at com.learnautomation.selenium.Demo1.myTest2(Demo1.java:51)
+

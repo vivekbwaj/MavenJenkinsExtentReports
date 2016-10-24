@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27188" started-at="2016-10-21T00:55:28Z" finished-at="2016-10-21T00:55:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27188" started-at="2016-10-21T00:55:28Z" finished-at="2016-10-21T00:55:55Z">
+      <class name="com.learnautomation.selenium.Demo1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.learnautomation.selenium.Demo1@62ee68d8]" name="setup" is-config="true" duration-ms="3703" started-at="2016-10-21T11:55:28Z" finished-at="2016-10-21T11:55:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="myTest1()[pri:0, instance:com.learnautomation.selenium.Demo1@62ee68d8]" name="myTest1" duration-ms="2063" started-at="2016-10-21T11:55:32Z" finished-at="2016-10-21T11:55:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest1 -->
+        <test-method status="PASS" signature="myTest2()[pri:0, instance:com.learnautomation.selenium.Demo1@62ee68d8]" name="myTest2" duration-ms="21272" started-at="2016-10-21T11:55:34Z" finished-at="2016-10-21T11:55:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest2 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.learnautomation.selenium.Demo1@62ee68d8]" name="teardown" is-config="true" duration-ms="0" started-at="2016-10-21T11:55:34Z" finished-at="2016-10-21T11:55:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.learnautomation.selenium.Demo1@62ee68d8]" name="teardown" is-config="true" duration-ms="0" started-at="2016-10-21T11:55:55Z" finished-at="2016-10-21T11:55:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.learnautomation.selenium.Demo1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
